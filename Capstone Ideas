@@ -1,0 +1,15 @@
+1. An interactive game that will distunguish Pokemon from brand medication names.
+   . As both a pharmacy technician and Pokemon fanatic this idea can bring great joy for med students or pokemon fans 
+     to know the difference in Pokemon names and medication names as they both sound and look familiar.
+   . An API of both pokemon and medication names will be needed.
+   . There can be a score board and end card that can determine if the user is a has a successful knowledge of
+    Pokemon names and brand drugs or if they need more practice.
+
+2. A Pokemon card application that will help determine which cards are more profitable than others.
+   . Aplication will take in an API of every pokemon card ever made and their prices.
+   . Users will know how much cards are profitable and unprofitable.
+
+3. An application that helps users create a itinerary on their next vacation based on upcoming events.
+   . Planning vacations can be a handful, so why not have an application that will take in all your interests 
+    to help determine the best optimal way to spend your time.
+   . Application will use an API of current vacational events.
